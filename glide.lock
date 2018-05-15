@@ -1,0 +1,6 @@
+hash: de120305e607ee6940731fc336d9d1aa13de47ca9aa1126afe888e4c5112ffe0
+updated: 2018-05-15T23:53:24.626232664+08:00
+imports:
+- name: github.com/genzj/vim-go-vendor-dep
+  version: 99560cbf0727fedc4bf5e0f0fd1ebd583d15dcc0
+testImports: []
